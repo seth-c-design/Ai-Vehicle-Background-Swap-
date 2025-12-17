@@ -1,0 +1,5 @@
+{
+  "name": "Vehicle Background Swap AI",
+  "description": "An application that uses AI to seamlessly replace the background of a vehicle image. Users upload a subject vehicle and a background scene, place a pin for positioning, and Gemini generates a photorealistic composite image.",
+  "requestFramePermissions": []
+}
